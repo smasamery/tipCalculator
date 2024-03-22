@@ -4,4 +4,4 @@ The program should ask the user to enter the amount of the bill. The user should
 The program will ask the user the number of people to split the bill.
 Next, calculate the bill to show how much each person pays
 Then, format and round the amount to pay to two decimal places. 
-Create the first the text base program, once it i working, update the file using GUI'''
+Create the first the text base program, once its working, update the file using GUI'''
